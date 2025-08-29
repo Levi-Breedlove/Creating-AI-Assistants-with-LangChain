@@ -17,6 +17,7 @@ A comprehensive AI-powered trivia assistant built with LangChain, AWS Bedrock, a
 - **DynamoDB Memory**: Persistent cloud-based conversation storage
 
 ## Architecture
+![Design](./trivia/images/architecture.png)
 
 The application uses:
 - **AWS Bedrock** with Amazon Nova Lite v1.0 model for AI responses
