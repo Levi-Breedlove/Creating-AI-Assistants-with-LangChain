@@ -197,24 +197,24 @@ For issues and questions:
 ## Demo Screenshots
 
 ### Main Interface
-![Main Interface](./images/trivia%20assistant%201.png)
+![Main Interface](./trivia/images/trivia%20assistant%201.png)
 
 ### Promotion Maker
-![Promotion Maker](./images/trivia%20assistant%202.png)
+![Promotion Maker](./trivia/images/trivia%20assistant%202.png)
 
 ### Report Writer
-![Report Writer](./images/trivia%20assistant%204.png)
-![Report Writer](./images/trivia%20assistant%205.png)
+![Report Writer](./trivia/images/trivia%20assistant%204.png)
+![Report Writer](./trivia/images/trivia%20assistant%205.png)
 
 ### Trivia Simulator
-![Trivia Simulator](./images/trivia%20assistant%206.png)
+![Trivia Simulator](./trivia/images/trivia%20assistant%206.png)
 
 
 ### Chat Interface - DynamoDB Memory
-![Chat DynamoDB Memory](./images/dynamodb.png)
+![Chat DynamoDB Memory](./trivia/images/dynamodb.png)
 
 ### DynamoDB Session Table
-![DynamoDB Session Table](./images/trivia%20assistant%20session%20table.png)
+![DynamoDB Session Table](./trivia/images/trivia%20assistant%20session%20table.png)
 
 ---
 
